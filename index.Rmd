@@ -1,6 +1,12 @@
 ---
-title: "Index"
-author: "Jenna Brewer"
-date: "2024-09-17"
+title: "Assignment Three"
 output: html_document
 ---
+
+## Jenna Brewer:   
+https://github.com/jenna-brewer
+
+##Collaborator- Miles Dhalwala:  
+
+
+![](https://www.cornell.edu/about/locations/ithaca/assets/images/0981_06_090_select-campus-aerial.jpg)

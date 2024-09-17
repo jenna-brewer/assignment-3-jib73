@@ -1,6 +1,10 @@
 ---
-title: "Jenna"
-author: "Jenna Brewer"
-date: "2024-09-17"
+title: "Jenna Brewer"
 output: html_document
 ---
+
+# List:
+
+- 
+- 
+- 
