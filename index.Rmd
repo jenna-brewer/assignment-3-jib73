@@ -6,7 +6,8 @@ output: html_document
 ## Jenna Brewer:   
 https://github.com/jenna-brewer
 
-##Collaborator- Miles Dhalwala:  
+## Collaborator- Miles Dhalwala:   
+https://github.com/miles-dhal03 
 
 
 ![](https://www.cornell.edu/about/locations/ithaca/assets/images/0981_06_090_select-campus-aerial.jpg)
